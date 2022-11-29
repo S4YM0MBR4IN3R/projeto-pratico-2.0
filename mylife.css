@@ -1,0 +1,51 @@
+body {background: radial-gradient(farthest-corner at right top,#FF0000, #06182D);
+
+}
+h1 {
+    font-weight: bold;
+    right: 10em;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    left: 75em;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+h1 {
+    padding-right: 30em;
+}
+
+h3 {
+    padding-left: 8em;
+}
+
+.sobre-mim p {
+    display: inline-block;
+    vertical-align: middle;
+    width: 600px;
+    font-size: 20px;
+    text-align: right;
+}
+
+#saymom {
+    margin-left: 60em;
+}
